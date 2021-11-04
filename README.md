@@ -2,7 +2,7 @@
 
 ## AI in Architecture, Urban Planning and Design Initiative
 
-The UNESCO Chair in Urban Landscape at the University of Montréal and the Digital Visual Center at the University of Zurich are launching an initiative on artificial intelligence (AI) in architecture, urban planning and design (AUPD). The initiative is headed by Prof. Shin Koseki, Dr Sc. (UNESCO Chair Professor in Urban Landscape) and Dr. Dario Negueruela del Castillo (Scientific coordinator of the Center for Digital Visual Studies).
+The UNESCO Chair in Urban Landscape at the University of Montréal and the Center for Digital Visual Studies of the Max Planck Society at the University of Zurich are launching an initiative on artificial intelligence (AI) in architecture, urban planning and design (AUPD). The initiative is headed by Prof. Shin Koseki, Dr Sc. (UNESCO Chair Professor in Urban Landscape) and Dr. Dario Negueruela del Castillo (Scientific coordinator of the Center for Digital Visual Studies).
 
 The integration of AI in AUPD remains limited despite the technology’s increasing presence in many other domains of research and industry. At the level of buildings, AI intervenes mostly in automating the conception of plans layouts and facade design. At the city level, engineers use the technology in managing urban infrastructure, especially for optimizing the distribution of people, goods and energy. It is not yet clear how AI could contribute to improving cities at the level of neighborhoods.
 
