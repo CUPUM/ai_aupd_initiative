@@ -1,6 +1,6 @@
 # Aide-mémoire
 
-## AI in Architecture, Urban Planning and Design Initiative
+## Design AI Initiative
 
 The UNESCO Chair in Urban Landscape at the University of Montréal and the Center for Digital Visual Studies of the Max Planck Society at the University of Zurich are launching an initiative on artificial intelligence (AI) in architecture, urban planning and design (AUPD). The initiative is headed by Prof. Shin Koseki, Dr Sc. (UNESCO Chair Professor in Urban Landscape) and Dr. Dario Negueruela del Castillo (Scientific coordinator of the Center for Digital Visual Studies).
 
